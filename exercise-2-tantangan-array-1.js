@@ -10,5 +10,5 @@ function balikString(string) {
   return reversed
 }
 
-var name = "Rhesa Utomo"
-console.log(balikKata(name))
+var nama = "Rhesa Utomo"
+console.log(balikString(nama))
